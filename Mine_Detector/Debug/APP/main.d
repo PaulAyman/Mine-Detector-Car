@@ -1,0 +1,50 @@
+APP/main.o APP/main.o: ../APP/main.c ../APP/../LIB/MCAL/DIO/DIO.h \
+  ../APP/../LIB/MCAL/DIO/../../UTILS/STD_TYPES.h \
+  ../APP/../LIB/MCAL/DIO/../../UTILS/BIT_MATH.h \
+  ../APP/../LIB/MCAL/DIO/DIO_CFG.h ../APP/../LIB/HAL/DCMOTOR/DCMOTOR.h \
+  ../APP/../LIB/HAL/LCD_DRIVER/LCD.h \
+  ../APP/../LIB/HAL/LCD_DRIVER/../../UTILS/STD_TYPES.h \
+  ../APP/../LIB/HAL/LCD_DRIVER/LCD_CFG.h \
+  ../APP/../LIB/HAL/LCD_DRIVER/../../MCAL/DIO/DIO_CFG.h \
+  ../APP/../LIB/MCAL/INTERRUPT/INTERRUPT.h \
+  ../APP/../LIB/MCAL/INTERRUPT/INTERRUPT_CFG.h \
+  ../APP/../LIB/MCAL/INTERRUPT/INTERRUPT_CFG.h \
+  ../APP/../LIB/MCAL/Timer0/Timer0.h \
+  ../APP/../LIB/MCAL/Timer0/../../UTILS/STD_TYPES.h \
+  ../APP/../LIB/HAL/Ultrasonic/ULTRASONIC.h \
+  ../APP/../LIB/HAL/Ultrasonic/../../MCAL/DIO/DIO_CFG.h \
+  ../APP/../LIB/HAL/Ultrasonic/../../MCAL/DIO/DIO.h
+
+../APP/../LIB/MCAL/DIO/DIO.h:
+
+../APP/../LIB/MCAL/DIO/../../UTILS/STD_TYPES.h:
+
+../APP/../LIB/MCAL/DIO/../../UTILS/BIT_MATH.h:
+
+../APP/../LIB/MCAL/DIO/DIO_CFG.h:
+
+../APP/../LIB/HAL/DCMOTOR/DCMOTOR.h:
+
+../APP/../LIB/HAL/LCD_DRIVER/LCD.h:
+
+../APP/../LIB/HAL/LCD_DRIVER/../../UTILS/STD_TYPES.h:
+
+../APP/../LIB/HAL/LCD_DRIVER/LCD_CFG.h:
+
+../APP/../LIB/HAL/LCD_DRIVER/../../MCAL/DIO/DIO_CFG.h:
+
+../APP/../LIB/MCAL/INTERRUPT/INTERRUPT.h:
+
+../APP/../LIB/MCAL/INTERRUPT/INTERRUPT_CFG.h:
+
+../APP/../LIB/MCAL/INTERRUPT/INTERRUPT_CFG.h:
+
+../APP/../LIB/MCAL/Timer0/Timer0.h:
+
+../APP/../LIB/MCAL/Timer0/../../UTILS/STD_TYPES.h:
+
+../APP/../LIB/HAL/Ultrasonic/ULTRASONIC.h:
+
+../APP/../LIB/HAL/Ultrasonic/../../MCAL/DIO/DIO_CFG.h:
+
+../APP/../LIB/HAL/Ultrasonic/../../MCAL/DIO/DIO.h:
